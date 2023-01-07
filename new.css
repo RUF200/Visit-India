@@ -1,0 +1,561 @@
+body
+{
+    background-color: black;
+    /*
+    background-image:url("https://wallpapertag.com/wallpaper/full/4/d/d/614590-india-wallpaper-desktop-1920x1080-for-htc.jpg");
+    */
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+
+h1
+{
+
+font-family: Roboto;
+font-size: 60px;
+color: white;
+cursor: not-allowed;
+
+
+
+}
+.one
+{
+display: inline;
+color: orangered;
+}
+.two
+{
+    display: inline;
+    
+}
+.three
+{
+    display: inline;
+    color: green;
+}
+
+
+.vi
+{
+    display: inline;
+color: orangered;
+}
+.s
+{
+    display: inline;
+}
+.it
+{
+    display: inline;
+    color: green;
+}
+.buttons5
+{
+    background: black;
+    color: antiquewhite;
+    margin: 3px;
+    
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100px;
+}
+.buttons
+{
+    text-align: right;
+    margin-top: -7.5%;
+    margin-right: 1%;
+}
+
+.buttons5:hover
+{
+color: black;
+background-color: white;
+cursor: pointer;
+border-color: black;
+font-weight: bold;
+
+}
+
+.akshardam img
+{
+    width: 20%;
+    height: 30%;
+    margin-right: 78%;
+    margin-top: 15%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.title 
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     
+     margin-right: 83.3%;
+    
+     cursor: pointer;
+     text-decoration: none;
+}
+
+.heading
+{
+    font-size: 30px;
+}
+
+.readmore
+{
+    background-color: white;
+    color: black;
+    font-family:  roboto;
+    font-size: 20px;
+    margin-right: 3.5%;
+    margin-top: -0.5%;
+    border-radius: 15px;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+/*
+.readmore:hover
+{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+*/
+
+
+.searchbar input
+{
+    width: 26%;
+    height: 7%;
+    font-size: 15px;
+    margin-right: 43.5%;
+    margin-top: -3%;
+    border-radius: 25px;
+    border-color: white;
+}
+
+.searchbarimg
+{
+    width: 2%;
+    height: 3%;
+    border-radius: 10px ;
+    margin-right: 44%;
+    margin-top: -2.3%;
+    cursor: pointer;
+}
+.shimla img
+{
+    width: 20%;
+    height: 30%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 53%;
+    margin-top: -22.7%;
+
+}
+
+.title2 
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     
+     margin-right: 58.7%;
+     margin-top: -8.2%;
+     cursor: pointer;
+}
+
+.heading2
+{
+    font-size: 30px;
+}
+
+.readmore2
+{
+    background-color: white;
+    color: black;
+    font-family:  roboto;
+    font-size: 20px;
+    margin-right: -2%;
+    margin-top: -1%;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.festivals img
+{
+    width: 20%;
+    height: 30%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 28.5%;
+    margin-top: -22.3%;
+
+}
+
+.title3 
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     
+     margin-right: 34%;
+     margin-top: -7.8%;
+     cursor: pointer;
+}
+
+.heading3
+{
+    font-size: 30px;
+}
+
+.readmore3
+{
+    background-color: white;
+    color: black;
+    font-family:  roboto;
+    font-size: 20px;
+    margin-right: -0.2%;
+    margin-top: -0.8%;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+
+.paradise img
+{
+    width: 20%;
+    height: 30%;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 4%;
+    margin-top: -22.3%;
+
+}
+
+.title4
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     
+     margin-right: 9.5%;
+     margin-top: -7.8%;
+     cursor: pointer;
+}
+
+.heading4
+{
+    font-size: 30px;
+}
+
+.readmore4
+{
+    background-color: white;
+    color: black;
+    font-family:  roboto;
+    font-size: 20px;
+    margin-right: -0.2%;
+    margin-top: -0.8%;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.herf, .herf2, .herf3, .herf4
+{
+    
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.image2
+{
+    width: 20vw;
+    height: 50vh;
+    margin-right: 75%;
+    margin-top: 20%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+
+}
+
+
+.heading11:hover
+{
+    transform: scale(1.2);
+    box-shadow: 5px 5px 15px rgb(0,0,0,0.6);
+}
+
+.card1
+{
+    /*
+    background-image: url("https://honeymoonbug.com/blog/wp-content/uploads/2017/04/Ruins-at-Hampi.jpg");
+    
+    background-image: url("https://4.bp.blogspot.com/-1-_NJO-stFc/U9FjbQl179I/AAAAAAAAAVQ/par0yr1K_G8/s1600/Akshardham.jpg");
+    /*
+   background-image: url("https://www.datocms-assets.com/46272/1633190157-1633190156217.jpg?auto=format&fit=max&w=1200");
+   
+   
+    width: 20vw;
+    height: 50vh;
+    margin-top: 14%;
+    margin-left: 5%;
+    background-size: cover;
+    border-radius: 10px;
+    
+    cursor: pointer;
+
+}
+
+.heading0
+{
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+
+.para1
+{
+    color: white;
+    text-align:center;
+    margin-top: -8%;
+    font-size: 15px;
+    
+
+}
+
+
+.heading11
+{
+    background-color: black;
+    width: 20vw;
+    height: 19.4vh; 
+    margin-top: -10%;
+    margin-left: 5%;
+    color: black ;
+    border-radius: 10px;
+}
+
+
+
+/*
+.image2
+{
+    width: 20vw;
+    height: 50vh;
+    margin-right: 75%;
+    margin-top: 20%;
+      
+   border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+
+
+
+.heading11:hover
+{
+    transform: scale(1.2);
+    box-shadow: 5px 5px 15px rgb(0,0,0,0.6);
+}
+
+.card2
+{
+    background-image: url("https://www.countryholidaysinnsuites.com/assets/new/images/blog-details/Krang-Suri-Waterfalls.jpg");
+    width: 20vw;
+    height: 50vh;
+    margin-top: -27%;
+    margin-left: 30%;
+    background-size: cover;
+    border-radius: 10px;
+    
+    cursor: pointer;
+
+}
+
+.heading1
+{
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    text-align: center;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+
+.para2
+{
+    color: white;
+    text-align:center;
+    margin-top: -8%;
+    font-size: 15px;
+    
+
+}
+
+
+.heading12
+{
+    background-color: black;
+    width: 20vw;
+    height: 19.4vh; 
+    margin-top: -10%;
+    margin-left: 30%;
+    color: black ;
+    border-radius: 10px;
+}
+
+.heading12:hover
+{
+  
+    transform: scale(1.2);
+    box-shadow: 5px 5px 15px rgb(0,0,0,0.6);
+  
+}
+
+
+.searchbar2
+{
+    text-align: center;
+    margin-top: -46%;
+    margin-left: -18%;
+
+}
+
+.searchbar3
+{
+    text-align: center;
+    width: 18vw;
+    height: 7vh;
+    border-radius: 20px;
+    border-color: black;
+
+}
